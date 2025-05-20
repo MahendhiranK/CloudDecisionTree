@@ -31,9 +31,6 @@ Content-Type: application/json
 }
 ```
 
-## 📐 Architecture Diagram
-![Architecture](docs/architecture.png)
-
 ## 📄 License
 MIT License
 
